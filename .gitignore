@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Raw and intermediate research data are kept locally, not in Git.
+data/raw/**
+data/intermediate/**
+data/legacy/**
+
+# Generated article outputs are reproducible and documented separately.
+results/**
+!results/**/
+!results/README.md
+!results/*/README.md
+
+# Keep documentation and package markers tracked.
+!data/README.md
+!data/**/README.md
+!data/__init__.py
+
+# Notebook autosaves and local exports.
+.ipynb_checkpoints/
+*.html
