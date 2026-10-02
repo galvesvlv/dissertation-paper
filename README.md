@@ -1,8 +1,9 @@
-# Heatwaves and Compound Social Vulnerabilities in Brazil
+# Research Code and Analysis Pipeline for Heatwaves and Compound Social Vulnerabilities in Brazil
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23103009.svg)](https://doi.org/10.5281/zenodo.23103009)
 
 This repository contains the data-processing code and notebooks used in the
-article *Heatwaves and Compound Social Vulnerabilities: Assessing Risks and
-Health Metrics for Traditional Communities and Elderly Populations in Brazil*.
+accompanying article on heatwaves and compound social vulnerabilities.
 
 The study evaluates XHWI, the National Weather Service heat index (HINWS), and
 an anomaly-based WMO approach using ERA5 data for Brazilian capitals from 1950

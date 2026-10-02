@@ -1,11 +1,18 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata in this file."
-title: "Heatwaves and Compound Social Vulnerabilities: Assessing Risks and Health Metrics for Traditional Communities and Elderly Populations in Brazil"
+title: "Research Code and Analysis Pipeline for Heatwaves and Compound Social Vulnerabilities in Brazil"
 type: software
 version: "1.0.0"
 license: MIT
 repository-code: "https://github.com/galvesvlv/dissertation-paper"
 url: "https://github.com/galvesvlv/dissertation-paper"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23103009"
+    description: "DOI for all versions of the repository"
+  - type: doi
+    value: "10.5281/zenodo.23103010"
+    description: "DOI for version 1.0.0"
 
 authors:
   - given-names: "Vitor Luiz"
@@ -29,6 +36,5 @@ keywords:
 
 abstract: >
   This is the official repository containing the code and pipeline used to
-  generate all the results for the study entitled “Heatwaves and Compound
-  Social Vulnerabilities: Assessing Risks and Health Metrics for Traditional
-  Communities and Elderly Populations in Brazil”.
+  generate all the results for the accompanying article on heatwaves and
+  compound social vulnerabilities.
