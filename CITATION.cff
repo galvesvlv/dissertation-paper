@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+title: "Heatwaves and Compound Social Vulnerabilities: Assessing Risks and Health Metrics for Traditional Communities and Elderly Populations in Brazil"
+type: software
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/galvesvlv/dissertation-paper"
+url: "https://github.com/galvesvlv/dissertation-paper"
+
+authors:
+  - given-names: "Vitor Luiz"
+    family-names: "Victalino Galves"
+    affiliation: "Climate System Monitoring and Modeling Laboratory, Water Resources and Environmental Engineering, Universidade Federal Fluminense, R. Passo da Pátria, 152-470, Niterói, 24220-900, Rio de Janeiro, Brazil"
+  - given-names: "Livia"
+    family-names: "Sancho"
+    affiliation: "Department, COPPE, Universidade Federal do Rio de Janeiro, 179 Sydiney Martins Gomes dos Santos St. - Cidade Universitária, Rio de Janeiro, 21941-859, Rio de Janeiro, Brazil"
+  - given-names: "Elisa"
+    family-names: "Passos"
+    affiliation: "Department, Universidade do Estado do Rio de Janeiro, Street, Rio de Janeiro, 610101, Rio de Janeiro, Brazil"
+  - given-names: "Marcio"
+    family-names: "Cataldi"
+    affiliation: "Climate System Monitoring and Modeling Laboratory, Water Resources and Environmental Engineering, Universidade Federal Fluminense, R. Passo da Pátria, 152-470, Niterói, 24220-900, Rio de Janeiro, Brazil"
+
+keywords:
+  - "Climate Change"
+  - "Hazard"
+  - "Amazon"
+  - "extreme events"
+
+abstract: >
+  This is the official repository containing the code and pipeline used to
+  generate all the results for the study entitled “Heatwaves and Compound
+  Social Vulnerabilities: Assessing Risks and Health Metrics for Traditional
+  Communities and Elderly Populations in Brazil”.
